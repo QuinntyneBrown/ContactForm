@@ -1,0 +1,5 @@
+{  
+  "RootNamespace": "ContactForm",
+  "Namespace": "ContactForm.Api",
+  "EntityIdDataType": "Guid"
+}
